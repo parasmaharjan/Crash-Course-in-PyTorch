@@ -5,6 +5,8 @@ PyTorch-1.0.0
 
 Matplotlib
 
+Pillow
+
 # Dependencies:
 Download dataset here: 
 
