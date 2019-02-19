@@ -1,6 +1,8 @@
 # Crash-Course-in-PyTorch
 
 # Dependencies:
+Python 3.xx
+
 PyTorch-1.0.0
 
 Matplotlib
