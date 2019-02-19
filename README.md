@@ -7,6 +7,8 @@ Matplotlib
 
 Pillow
 
+Glob
+
 # Dependencies:
 Download dataset here: 
 
