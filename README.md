@@ -13,6 +13,7 @@ Glob
 
 # Dependencies:
 Download dataset here: 
+http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html
 
 https://download.pytorch.org/tutorial/hymenoptera_data.zip
 
