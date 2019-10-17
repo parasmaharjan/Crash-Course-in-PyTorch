@@ -19,7 +19,7 @@ import easydict
 opt = easydict.EasyDict({
         "preprocess": False,
         "batchSize": 128,
-        "num_of_layers": 20,
+        "num_of_layers": 17,
         "epochs": 10,
         "milestone": 30,
         "lr": 1e-3,
